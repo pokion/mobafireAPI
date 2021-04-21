@@ -1,0 +1,20 @@
+{
+  "name": "mobafireapi",
+  "version": "1.0.0",
+  "description": "API for mobafier",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mobafire",
+    "api"
+  ],
+  "author": "Cezary Bubieniec",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.5",
+    "request": "^2.88.2"
+  }
+}
